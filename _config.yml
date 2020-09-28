@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: InfoSec Blog | CTFs Writeup 
+title: 70ss4m Blog
 description: InfoSec-Blog && CTFs Writeup && HackTheBox Machines Writeup. # this means to ignore newlines until "baseurl:"
 baseurl: "/InfoSec-Blog" # the subpath of your site, e.g. /blog
 url: "https://700s4m.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -17,6 +17,7 @@ author-avatar: 09.jpg
 # Contact links
 facebook:  https://facebook.com/hossamibraheem333 # Add your Facebook handle
 twitter:   https://twitter.com/hossamibraheem1 # Add your Facebook handle
+github:  https://github.com/700s4m # add github to handle
 #instagram: https://www.instagram.com/ # Add your Facebook handle
 #pinterest: https://www.pinterest.com/ # Add your Facebook handle
 
@@ -28,7 +29,7 @@ disqus-identifier: 70ssAM # Add your shortname for Disqus Comment. For example m
 
 #-------------------------------
 # Instagram Feed
-instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
+instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
 
 
 #-------------------------------
